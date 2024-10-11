@@ -1,5 +1,21 @@
 1. Explain what the terminal is in your own words.
 
+The terminal is a tool that lets you access certain root level commands that allows you to traverse the command line interface.
+This is a faster and more efficient method to create, travel and open applications in your computer. The terminal also serve as a
+very powerful debugging tool as you can display your console logs and errors on the terminal.
+
 2. What is the major difference between git and github
 
+Git it the software that tracks version control in your projects. Git itself is stored locally in your machine while github is
+a website that hosts your repository which you upload your git information into. To put it in simple terms, git is something that
+saves your work locally, github saves your git information once it's uploaded into their servers. Git is a software you install
+in your computer and github is a online hosting service.
+
 3. What are the steps to fork a GitHub directory?
+  a. Navigate to the repository
+  b. On the top-right corner of the page, click fork
+  c. Choose the owner for the forked repository
+  d. Edit the description (optional)
+  e. Select the branch you'd like to fork
+  f. Create the fork
+  extra step, clone the forked repository so you can view or work on it locally.
